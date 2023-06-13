@@ -1,0 +1,14 @@
+.event-list {
+    padding: 20px;
+}
+.event-list__title {
+    text-align: center;
+}
+.calendar {
+    display: inline-block;
+    vertical-align: top;
+}
+.event-list-container {
+    display: inline-block;
+    padding: 0px 30px;
+}

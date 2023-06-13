@@ -1,0 +1,10 @@
+.header {
+    padding: 10px 20px;
+    text-align: center;
+    border-bottom: 1px solid #f5f5f5;
+}
+.nav__link {
+    margin-right: 5px;
+    display: inline-block;
+    font-size: 20px;
+}

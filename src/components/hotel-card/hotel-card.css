@@ -1,0 +1,7 @@
+.hotel-card {
+  border: 2px solid gray;
+  max-width: 300px;
+  margin: auto;
+  margin-bottom: 10px;
+  text-align: center;
+}

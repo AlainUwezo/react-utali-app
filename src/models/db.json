@@ -1,0 +1,113 @@
+{
+    "hotels": [{
+        "id": 1,
+        "name": "Hotel_1",
+        "place": "place_1",
+        "picture": "https://wallpapercave.com/wp/wp3598832.jpg"
+    },{
+        "id": 2,
+        "name": "Hotel_2",
+        "place": "place_2",
+        "picture": "https://wallpapercave.com/wp/wp38040.jpg"
+    },{
+        "id": 3,
+        "name": "Hotel_3",
+        "place": "place_3",
+        "picture": "https://i.pinimg.com/originals/20/07/d6/2007d6dd4ca8f4b527d19c7baaefab7e.jpg",
+        "picture360": "https://images.unsplash.com/photo-1594904578869-c011783103c7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1885&q=80"
+    },{
+        "id": 4,
+        "name": "Hotel_4",
+        "place": "place_4",
+        "picture": "https://wallpapercave.com/wp/wp38040.jpg"
+    },{
+        "id": 5,
+        "name": "Hotel_5",
+        "place": "place_5",
+        "picture": "https://i.pinimg.com/originals/20/07/d6/2007d6dd4ca8f4b527d19c7baaefab7e.jpg",
+        "picture360":"https://images.unsplash.com/photo-1461699500101-ff89748e4051?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1049&q=80"
+    },{
+        "id": 6,
+        "name": "Hotel_6",
+        "place": "place_6",
+        "picture": "https://wallpapercave.com/wp/wp3598832.jpg"
+    },{
+        "id": 7,
+        "name": "Hotel_7",
+        "place": "place_7",
+        "picture": "https://img.ev.mu/babylon/me/meh/hotel-pas-cher.jpg"
+    },{
+        "id": 8,
+        "name": "Hotel_8",
+        "place": "place_8",
+        "picture": "https://wallpapercave.com/wp/wp38040.jpg"
+    },{
+        "id": 9,
+        "name": "Hotel_9",
+        "place": "place_9",
+        "picture": "https://wallpapercave.com/wp/wp3598832.jpg"
+    },{
+        "id": 10,
+        "name": "Hotel_10",
+        "place": "place_10",
+        "picture": "https://img.ev.mu/babylon/me/meh/hotel-pas-cher.jpg"
+    },{
+        "id": 11,
+        "name": "Hotel_11",
+        "place": "place_11",
+        "picture": "https://i.pinimg.com/originals/20/07/d6/2007d6dd4ca8f4b527d19c7baaefab7e.jpg"
+    },{
+        "id": 12,
+        "name": "Hotel_12",
+        "place": "place_12",
+        "picture": "https://img.ev.mu/babylon/me/meh/hotel-pas-cher.jpg"
+    }],
+
+    "events": [{
+        "id": "dnajndja1219bfdanda",
+        "name": "Event 1",
+        "eventDate": "2023-08-24T19:04:11.739Z",
+        "eventPlace": "Event place 1",
+        "hotel": {
+            "id": 0,
+            "name": "Hotel_1",
+            "place": "place_1",
+            "picture": "https://wallpapercave.com/wp/wp3598832.jpg"
+        }
+    },{
+        "id": "dnajndja1219bfdanda",
+        "name": "Event 1",
+        "eventDate": "2023-05-25T19:04:11.739Z",
+        "eventPlace": "Event place 1",
+        "hotel": {
+            "id": 3,
+            "name": "Hotel_1",
+            "place": "place_1",
+            "picture": "https://wallpapercave.com/wp/wp3598832.jpg",
+            "picture360": "https://images.unsplash.com/photo-1594904578869-c011783103c7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1885&q=80"
+          
+          }
+    },{
+        "id": "dnajndja12142r",
+        "name": "Event 2",
+        "eventDate": "2023-05-22T19:04:11.739Z",
+        "eventPlace": "Event place 2",
+        "hotel": {
+            "id": 5,
+            "name": "Hotel_5",
+            "place": "place_5",
+            "picture": "https://i.pinimg.com/originals/20/07/d6/2007d6dd4ca8f4b527d19c7baaefab7e.jpg"
+          }
+    }, {
+        "id": "dnajndja1219dada01",
+        "name": "Event 3",
+        "eventDate": "2023-05-22T19:04:11.739Z",
+        "eventPlace": "Event place 3",
+        "hotel": {
+            "id": 11,
+            "name": "Hotel_11",
+            "place": "place_11",
+            "picture": "https://i.pinimg.com/originals/20/07/d6/2007d6dd4ca8f4b527d19c7baaefab7e.jpg"
+          }
+    }]
+}
